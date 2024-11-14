@@ -5,7 +5,7 @@ public class CalculadoraSimple {
 	//Comentario desde la rama feature
 	//Comentario desde Github
 	public static void main(String[] args) {
-		
+	//Seegunda modificacion desde Eclipse	
 		Scanner scanner = new Scanner(System.in);
 		
 		System.out.println("Calculadora Simple:");
